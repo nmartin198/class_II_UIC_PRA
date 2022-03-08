@@ -12,7 +12,7 @@ This project is a scientific study of the impacts to water resources from Class 
 2. Class II disposal well systems collocated with legacy and active oil and gas activities generated elevated risk to water resources relative to generic Class II disposal wells, which are not collocated, because oil and gas activities provide potential waste migration pathways as illustrated below.
 
 
-![Migration Pathways from Oil and Gas Activities](./images/MigrationPaths_OGAreas.png)
+![Migration Pathways from Oil and Gas Activities](./images/MigrationPaths_OGAreas.png)  <br>
 **Enhanced likelihood for waste migration pathways produced by unknown wells and by increased likelihood for a plug failure when there are many abandoned wells that pierce the waste sequestration zone** Unknown wells are forgotten wells that were never plugged when abandoned. Legacy oil and gas activities increase the likelihood of unknown wells because boreholes were not historically tracked in databases due to historical technology limitations and limited permitting requirements, historically. Wells that were abandoned (i.e., plugged) decades ago have an enhanced probability of plug construction and installation with what are considered sub-standard methods and materials in comparison to modern practice. "Open Wells and Plug Failure" by [Southwest Research Institute](https://www.swri.org/industries/earth-science) can be reused under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license.  <br>
   <br>
 
@@ -38,7 +38,7 @@ Three PRAs, implemented in [GoldSim](https://www.goldsim.com/Web/Home/) software
 ## Authors
 
 * Nick Martin (nmartin@swri.org)
-* Kindra Nicholaides (kindra.nicholaides@swri.org)
+* Kindra Nicholaides (ardnik@gmail.com)
 * Paul Southard (paulsouthard1@gmail.com)
   <br>
   <br>
@@ -52,6 +52,6 @@ This project is licensed under the GNU General Public License v.3.0 - see the [L
 
 ## Acknowledgments
 
-This work was funded by [Southwest Research Institute](https://www.swri.org/groundwater-and-surface-water-analysis-and-modeling) internal research and 
+This work was funded by [Southwest Research Institute](https://www.swri.org/industries/earth-science) internal research and 
 development grant 15-R8979.
 
