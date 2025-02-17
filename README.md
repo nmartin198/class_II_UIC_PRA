@@ -1,4 +1,4 @@
-# class_II_UIC_PRA
+# Water Resources Risk from Saltwater Disposal Wells (SDW) in Texas
 
 This repository provides the [GoldSim](https://www.goldsim.com/Web/Home/), dynamic probabilistic risk assessment (PRA) models used in the journal article entitled [Enhanced Water Resources Risk from Collocation of Disposal Wells and Legacy Oil and Gas Exploration and Production Regions in Texas](https://onlinelibrary.wiley.com/doi/10.1111/1752-1688.13048). A preprint version of this article is available in the [docs](https://github.com/nmartin198/class_II_UIC_PRA/tree/main/docs) subdirectory, which has all supplementary materials attached to the PDF preprint. 
 <br>
@@ -41,7 +41,7 @@ Three PRAs, implemented in [GoldSim](https://www.goldsim.com/Web/Home/) software
 
 ## Authors
 
-* Nick Martin (nmartin@swri.org)
+* Nick Martin (nick.martin@alumni.stanford.edu)
 * Kindra Nicholaides
 * Paul Southard
   <br>
